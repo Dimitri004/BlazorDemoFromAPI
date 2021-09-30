@@ -1,0 +1,57 @@
+﻿@page "/recepten"
+@using BlazorDemo.Model
+@inject HttpClient Http
+
+<h1>Api - Products</h1>
+
+@if (recipeResponse == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>CampaignID</th>
+                <th>Name</th>
+                <th>Price</th>
+                <th>URL</th>
+                <th>Images</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in recipeResponse.Products)
+            {
+                <tr>
+                    <td>@product.ID</td>
+                    <td>@product.CampaignID</td>
+                    <td>@product.Name</td>
+                    <td>@product.Price.Amount @product.Price.Currency</td>
+                    <td>@product.URL</td>
+                    <td>
+                        <ul>
+                            @foreach (var image in product.Images)
+                            {
+                                <li>@image</li>
+                            }
+                        </ul>
+                    </td>
+                    <td>@product.Description</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private RecipeResponse recipeResponse;
+
+    protected override async Task OnInitializedAsync()
+    {
+        recipeResponse = await Http.GetFromJsonAsync<RecipeResponse>("sample-data/data.json");
+    }
+
+}

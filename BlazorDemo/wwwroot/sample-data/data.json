@@ -1,0 +1,244 @@
+{
+    "products": [
+      {
+        "ID": "0e2d9b0777a485c1276de0803c12a7d76fbc5c39",
+        "campaignID": 33620,
+        "name": "Titel",
+        "price": {
+          "currency": "EUR",
+          "amount": 0
+        },
+        "URL": "https://www.mealhero.me/foodbox/?tt=33620_1948369_410595_&r=URL",
+        "images": [ "Afbeeldingslink" ],
+        "description": "Beschrijving",
+        "categories": [],
+        "properties": [],
+        "variations": []
+      },
+      {
+        "ID": "998a409605d005c2196efdf47b3dd5b060da142a",
+        "campaignID": 33620,
+        "name": "Varkensgebraad met kruidenboter",
+        "price": {
+          "currency": "EUR",
+          "amount": 7.3099999999999996
+        },
+        "URL": "https://www.mealhero.me/foodbox/?tt=33620_1948369_410595_&r=https%3A%2F%2Fwww.mealhero.me%2Fmaaltijden1x1%2F",
+        "images": [ "https://www.mealhero.me/wp-content/uploads/2021/08/Varkensgebraad-met-signature-stoemp-300x300.jpeg" ],
+        "description": "Drukke dag gehad? Dan hebben we het perfecte gerecht voor jou in petto: een sappig varkensgebraad met smeuïge wortel- en erwtenstoemp. Een heerlijke eenvoudige maar populaire combinatie, dat zal smaken!",
+        "categories": [],
+        "properties": [],
+        "variations": []
+      },
+      {
+        "ID": "8c8aeaec8519080453364bbdaec720b997329789",
+        "campaignID": 33620,
+        "name": "Kip pizzaiola",
+        "price": {
+          "currency": "EUR",
+          "amount": 7.3099999999999996
+        },
+        "URL": "https://www.mealhero.me/foodbox/?tt=33620_1948369_410595_&r=https%3A%2F%2Fwww.mealhero.me%2Fmaaltijden1x2%2F",
+        "images": [ "https://www.mealhero.me/wp-content/uploads/2021/08/Kip-pizzaiola-300x300.jpeg" ],
+        "description": "Soms kan zo simpel, zo lekker zijn! Neem bijvoorbeeld deze smaakvolle fusilli met romige tomatensaus en een malse kip pizzaiola. Niet alleen een lust voor het oog maar ook caloriearm en bijgevolg de perfecte, gezonde afsluiter van een lange werkdag.",
+        "categories": [],
+        "properties": [],
+        "variations": []
+      },
+      {
+        "ID": "23ecbc7bdaf883cdaf1e1d0092485d9539f3d3bf",
+        "campaignID": 33620,
+        "name": "Veggie bratwurst met champignonsaus",
+        "price": {
+          "currency": "EUR",
+          "amount": 7.3099999999999996
+        },
+        "URL": "https://www.mealhero.me/foodbox/?tt=33620_1948369_410595_&r=https%3A%2F%2Fwww.mealhero.me%2Fmaaltijden1x3%2F",
+        "images": [ "https://www.mealhero.me/wp-content/uploads/2021/08/BTS-Pasta-genovese.jpg" ],
+        "description": "Een klassiek gerecht uit grootmoeders keuken met een vegetarische twist: veggie bratwurst met champignonsaus, met daarbij aardappelstoemp met spinazie, chunky rode kool met appeltjes. Wat een kleur- en smaakfestijn.",
+        "categories": [],
+        "properties": [],
+        "variations": []
+      },
+      {
+        "ID": "de631cfd0583f324ef61c6b336ecd28b6616d4ac",
+        "campaignID": 33620,
+        "name": "Zalmhaasje met dille",
+        "price": {
+          "currency": "EUR",
+          "amount": 7.3099999999999996
+        },
+        "URL": "https://www.mealhero.me/foodbox/?tt=33620_1948369_410595_&r=https%3A%2F%2Fwww.mealhero.me%2Fmaaltijden2x1%2F",
+        "images": [ "https://www.mealhero.me/wp-content/uploads/2021/08/BTS-Pasta-genovese.jpg" ],
+        "description": "Een gezond gerecht boordevol groenten, dat je makkelijk thuis kan klaarmaken. De groentesalade bestaat uit groene asperges, kleurrijke courgettes en dieprode dadeltomaatjes gemarineerd met gerookte cajun kruiden. Daarbij serveren we een lekker stukje zalm, afgewerkt met dille en peterselie. Dat maakt dit gerecht tegelijkertijd hartverwarmend als fris. Laat het smaken!",
+        "categories": [],
+        "properties": [],
+        "variations": []
+      },
+      {
+        "ID": "0fdf37dc49aa87fb82ed98a86912fed792cf7460",
+        "campaignID": 33620,
+        "name": "Dumplings met frisse edamame-gember vulling",
+        "price": {
+          "currency": "EUR",
+          "amount": 7.3099999999999996
+        },
+        "URL": "https://www.mealhero.me/foodbox/?tt=33620_1948369_410595_&r=https%3A%2F%2Fwww.mealhero.me%2Fmaaltijden2X2%2F",
+        "images": [ "https://www.mealhero.me/wp-content/uploads/2021/08/Davai-Edamame-gember.png" ],
+        "description": "Davai Delicious Dumplings zijn kleine smaakbommetjes die jouw gerechten pit geven! Onze chefs combineren hun plantaardige dumplings met een gezonde rijstschotel met wortel, sojabonen, erwtjes en courgette. Simpel, lekker en helemaal vegan.",
+        "categories": [],
+        "properties": [],
+        "variations": []
+      },
+      {
+        "ID": "ec3fd887be204b16a5855982ee4d879445b6172d",
+        "campaignID": 33620,
+        "name": "Muhammara gehaktballetjes",
+        "price": {
+          "currency": "EUR",
+          "amount": 7.3099999999999996
+        },
+        "URL": "https://www.mealhero.me/foodbox/?tt=33620_1948369_410595_&r=https%3A%2F%2Fwww.mealhero.me%2Fmaaltijden2x3%2F",
+        "images": [ "https://www.mealhero.me/wp-content/uploads/2021/08/Muammara-gehaktballen.jpeg" ],
+        "description": "Muhammara is een heerlijke Midden-Oosterse kruidenmix die oorspronkelijk uit Syrië komt. Daarnaast bereiden we bloemkoolrijst boordevol groenten waarbij deze gehaktballetjes heel goed passen! Niet alleen een lust voor het oog maar ook caloriearm en bijgevolg de perfecte, gezonde afsluiter van een lange werkdag.",
+        "categories": [],
+        "properties": [],
+        "variations": []
+      },
+      {
+        "ID": "ef037cd7a50954f57780cc0ccbef95bba2aa9a9b",
+        "campaignID": 33620,
+        "name": "Scampi diabolique",
+        "price": {
+          "currency": "EUR",
+          "amount": 7.3099999999999996
+        },
+        "URL": "https://www.mealhero.me/foodbox/?tt=33620_1948369_410595_&r=https%3A%2F%2Fwww.mealhero.me%2Fmaaltijden3x1%2F",
+        "images": [ "https://www.mealhero.me/wp-content/uploads/2021/08/Scampi-Diabolique.jpeg" ],
+        "description": "Scampi diabolique zijn gestoomde scampi's in een heerlijke pittige tomatensaus. Overheerlijk bij een lekker bordje Mekong rijst en een kleurrijke Mediterrane courgettemix. Een echte restaurantklassieker, die jij makkelijk snel thuis kan maken.",
+        "categories": [],
+        "properties": [],
+        "variations": []
+      },
+      {
+        "ID": "64a2ec7fc30c85e62b7205f1cdd3e276d4d07db6",
+        "campaignID": 33620,
+        "name": "Saltimbocca met Italiaanse ham",
+        "price": {
+          "currency": "EUR",
+          "amount": 7.3099999999999996
+        },
+        "URL": "https://www.mealhero.me/foodbox/?tt=33620_1948369_410595_&r=https%3A%2F%2Fwww.mealhero.me%2Fmaaltijden3x2%2F",
+        "images": [ "https://www.mealhero.me/wp-content/uploads/2021/08/Saltimbocca.jpeg" ],
+        "description": "'Saltimbocca' betekent letterlijk 'in de mond springen' en is een klassiek Italiaans gerecht uit de streek rond Rome. Wanneer je dit mals kalfslapje met Italiaanse ham proeft, waar je meteen waarom. Daarbij serveren we een risotto boordevol groenten zoals bladspinazie, tuinerwten en broccoliroosjes. Om bij te watertanden!",
+        "categories": [],
+        "properties": [],
+        "variations": []
+      },
+      {
+        "ID": "627ca39bba67289ec60910dceaf8e9e319149f6e",
+        "campaignID": 33620,
+        "name": "Fajita-chorizo kip",
+        "price": {
+          "currency": "EUR",
+          "amount": 7.3099999999999996
+        },
+        "URL": "https://www.mealhero.me/foodbox/?tt=33620_1948369_410595_&r=https%3A%2F%2Fwww.mealhero.me%2Fmaaltijden3x3%2F",
+        "images": [ "https://www.mealhero.me/wp-content/uploads/2021/08/Fajita-chorizo-kip-met-wedges.jpeg" ],
+        "description": "Dit is werkelijk één van onze populairste recepten! Kruidige wedges mengen we met zomerse gegrilde groenten. Een malse kipfilet met fijngesneden chorizo en manchega kaas maakt het helemaal af.",
+        "categories": [],
+        "properties": [],
+        "variations": []
+      },
+      {
+        "ID": "9ab7831f47db0f37a55fb9885b57a417ac69f193",
+        "campaignID": 33620,
+        "name": "Marokkaanse couscous salade",
+        "price": {
+          "currency": "EUR",
+          "amount": 7.3099999999999996
+        },
+        "URL": "https://www.mealhero.me/foodbox/?tt=33620_1948369_410595_&r=https%3A%2F%2Fwww.mealhero.me%2Fmaaltijden4x1%2F",
+        "images": [ "https://www.mealhero.me/wp-content/uploads/2021/08/Marokkaanse-kip.jpeg" ],
+        "description": "Neem een vliegende start met deze heerlijke, wereldse salade. Kip met ras-el-hanout kruiden en gember is een heerlijke combinatie uit de Marokkaanse keuken. Deze couscous salade met aardappel is lekker fris en licht, ideaal voor deze drukke dagen!",
+        "categories": [],
+        "properties": [],
+        "variations": []
+      },
+      {
+        "ID": "e4ba0dacdba2617a5a492f967c173668552e860b",
+        "campaignID": 33620,
+        "name": "Mexicaanse kip",
+        "price": {
+          "currency": "EUR",
+          "amount": 7.3099999999999996
+        },
+        "URL": "https://www.mealhero.me/foodbox/?tt=33620_1948369_410595_&r=https%3A%2F%2Fwww.mealhero.me%2Fmaaltijden4x2%2F",
+        "images": [ "https://www.mealhero.me/wp-content/uploads/2021/08/WW-Kip-kerstomaat-300x300.png" ],
+        "description": "Met de gezonde gerechten van WW (Weight Watchers heruitgevonden) en Mealhero zet je in een oogwenk een smaakvolle maaltijd op tafel waardoor de gezonde optie ook meteen de makkelijkste optie wordt. Het resultaat is een heerlijke gezonde Mexicaanse kip tandoori geserveerd met funky mix van rode bonen, gegrilde mais en frisse kerstomaten.",
+        "categories": [],
+        "properties": [],
+        "variations": []
+      },
+      {
+        "ID": "afb152b4f03a5d7b26c09c7842c5d643a76e51d9",
+        "campaignID": 33620,
+        "name": "Haute dogs met cheezy braadworst",
+        "price": {
+          "currency": "EUR",
+          "amount": 7.3099999999999996
+        },
+        "URL": "https://www.mealhero.me/foodbox/?tt=33620_1948369_410595_&r=https%3A%2F%2Fwww.mealhero.me%2Fmaaltijden4x3%2F",
+        "images": [ "https://www.mealhero.me/wp-content/uploads/2021/07/509472442303.original.jpeg" ],
+        "description": "Oh wat houden onze chefs van creatieve vegetarische gerechten! Ze vonden originele en overheerlijke vegetarische worsten met nieuw vleesch van De Vegetarische Slager.",
+        "categories": [],
+        "properties": [],
+        "variations": []
+      },
+      {
+        "ID": "d1c3306e7562ca871ea9ad1cae785387a4bf0f18",
+        "campaignID": 33620,
+        "name": "Zomerse pastasalade met Greenway® meatballs",
+        "price": {
+          "currency": "EUR",
+          "amount": 7.3099999999999996
+        },
+        "URL": "https://www.mealhero.me/foodbox/?tt=33620_1948369_410595_&r=https%3A%2F%2Fwww.mealhero.me%2Fmaaltijden5x1%2F",
+        "images": [ "https://www.mealhero.me/wp-content/uploads/2021/07/Pastasalade-Greenway.png" ],
+        "description": "Een klassiek gerecht dat gegarandeerd in de smaak valt bij jong en oud. Schelpjespasta met zwarte olijven, kerstomaten, courgette en een goede portie vegetarische gehaktballen met lekkere tomatensaus.",
+        "categories": [],
+        "properties": [],
+        "variations": []
+      },
+      {
+        "ID": "dd966e9dddad034eeaf6cc8ba42424e8bcbaca1b",
+        "campaignID": 33620,
+        "name": "Healthy rijst green vedge",
+        "price": {
+          "currency": "EUR",
+          "amount": 7.3099999999999996
+        },
+        "URL": "https://www.mealhero.me/foodbox/?tt=33620_1948369_410595_&r=https%3A%2F%2Fwww.mealhero.me%2Fmaaltijden5x2%2F",
+        "images": [ "https://www.mealhero.me/wp-content/uploads/2021/08/Pesto-verde-kip.png" ],
+        "description": "Een supereenvoudige maaltijd en toch een waar smaakbommetje, deze gezonde groene rijstschotel met kip pesto verde! Een rijkgevulde schotel met rijst, wortel, sojabonen, erwtjes en courgette. Een heerlijk kommetje gezonde comfort food tijdens een drukke werkweek.",
+        "categories": [],
+        "properties": [],
+        "variations": []
+      },
+      {
+        "ID": "a1bbcdb389ea28d017089be292b9914e5ee6ab09",
+        "campaignID": 33620,
+        "name": "Chinese groentenwok",
+        "price": {
+          "currency": "EUR",
+          "amount": 7.3099999999999996
+        },
+        "URL": "https://www.mealhero.me/foodbox/?tt=33620_1948369_410595_&r=https%3A%2F%2Fwww.mealhero.me%2Fmaaltijden5X3%2F",
+        "images": [ "https://www.mealhero.me/wp-content/uploads/2021/08/Chinese-groentenwok-1.png" ],
+        "description": "Dit verrassende gerecht ga je misschien niet tegenkomen op een authentiek marktje in China, maar het barst wel van die typisch Aziatische smaken. Pittige thai tanic curry reepjes van De Vegetarische Slager® met knapperige groenten afgekruid met gerookte cajun kruiden. Origineel en smaakvol.",
+        "categories": [],
+        "properties": [],
+        "variations": []
+      }
+    ]
+  }
